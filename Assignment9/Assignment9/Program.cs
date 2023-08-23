@@ -28,7 +28,7 @@ namespace Assignment9
                 {
                     int orderId = GetNextOrderId(connection, transaction);
                     int customerId = 2; 
-                    decimal totalAmount = 5000.00M; // Replace with actual total amount
+                    decimal totalAmount = 2200.00M; // Replace with actual total amount
 
                     using (SqlCommand command = connection.CreateCommand())
                     {

@@ -6,3 +6,8 @@ F:\Training Stuff\Database_ASP.NET\Assignments\9\Assignment9\Assignment9\obj\Deb
 F:\Training Stuff\Database_ASP.NET\Assignments\9\Assignment9\Assignment9\obj\Debug\Assignment9.csproj.CoreCompileInputs.cache
 F:\Training Stuff\Database_ASP.NET\Assignments\9\Assignment9\Assignment9\obj\Debug\Assignment9.exe
 F:\Training Stuff\Database_ASP.NET\Assignments\9\Assignment9\Assignment9\obj\Debug\Assignment9.pdb
+F:\Training Stuff\Database_ASP.NET\Assignments\9\Assignment9\Assignment9\bin\Debug\EntityFramework.dll
+F:\Training Stuff\Database_ASP.NET\Assignments\9\Assignment9\Assignment9\bin\Debug\EntityFramework.SqlServer.dll
+F:\Training Stuff\Database_ASP.NET\Assignments\9\Assignment9\Assignment9\bin\Debug\EntityFramework.xml
+F:\Training Stuff\Database_ASP.NET\Assignments\9\Assignment9\Assignment9\bin\Debug\EntityFramework.SqlServer.xml
+F:\Training Stuff\Database_ASP.NET\Assignments\9\Assignment9\Assignment9\obj\Debug\Assignment9.csproj.CopyComplete
